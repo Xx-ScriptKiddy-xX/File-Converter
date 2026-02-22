@@ -1,6 +1,6 @@
 # File Converter App
 
-<img width="600" alt="FileConverter" src="https://github.com/user-attachments/assets/7e233c26-835f-479d-9d68-5865449d8271" />
+<img width="600" alt="File Converter Icon" src="https://github.com/user-attachments/assets/7e233c26-835f-479d-9d68-5865449d8271" />
 
 **File Converter App** is an all-in-one desktop application for converting **images, audio, and video files** with **maximum quality output**. Built with **Python** and **Tkinter**, it features a simple and intuitive GUI and supports batch conversions across multiple media formats.
 
@@ -40,7 +40,7 @@
 5. Select input files or an entire directory.  
 6. Click **Convert**, choose an output folder, and let the app handle the rest with maximum quality.
 
-<img width="300" alt="Screenshot 2026-02-21 191316" src="https://github.com/user-attachments/assets/67c2d257-5d16-4443-92bb-8982255ac3db" />
+<img width="300" alt="Tutorial" src="https://github.com/user-attachments/assets/67c2d257-5d16-4443-92bb-8982255ac3db" />
 
 ---
 
